@@ -10,5 +10,5 @@ Visual
 
 
 ________________________
-apsduje@gmail.com 4 fork
+apsduje@gmail.com
 Projekt by Duje Duplancic
