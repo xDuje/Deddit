@@ -1,9 +1,10 @@
 # Deddit
 # UNFINISHED
 added sections,
-no comments
-no likes/shares
-Visual
+half comments
+half likes/shares
+
+Visual completed
 
 
 
